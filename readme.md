@@ -18,7 +18,7 @@ docker-compose up -d \
 ```
 ## Run Your Testing Scenario File
 ```
-ocker-compose run -v \
+docker-compose run -v \
     $PWD/folder:/folder \
     k6 run /folder/filescenario.js
 ```
