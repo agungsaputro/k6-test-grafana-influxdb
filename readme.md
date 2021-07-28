@@ -32,3 +32,7 @@ http://localhost:3000
 
 ## Go to Dashboard
 ![Grafana](/images/grafana.png)
+
+
+### Refrence
+https://k6.io/docs/results-visualization/influxdb-+-grafana/
